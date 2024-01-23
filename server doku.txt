@@ -1,0 +1,14 @@
+-server telepítése a megadott szempontok alapján
+-jelszó beállítása
+-ip cím beállítása alapértelmezettel és dnssel
+-AD telepítése
+-szervezeti egység létrehozása
+-felhasználók létrehozása
+-kezdőmappák létrehozása
+-dns server elsődleges zóna létrehozása
+-intranet létrehozása
+-bat fájl létrehozása
+-kliens gép átnevezése
+-index.html létrehozása
+-dhcp server két hatókörrel
+-kliens gépen tesztelés
